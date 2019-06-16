@@ -1,0 +1,13 @@
+/* Global */
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+$primary-font: "Roboto Condensed", sans-serif;
+
+body {
+  font-family: $primary-font;
+}

@@ -1,0 +1,12 @@
+/* Global */
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
